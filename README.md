@@ -24,7 +24,7 @@ GCP、AWS 海外节点的网络质量和路由都比较优质，多年来我一�
 4. 安装 Docker；
 5. 使用 remote-exec provider 在 Docker 里部署应用，返回关键信息。
 
-![Image](https://res.craft.do/user/full/f05fc002-1ef2-257c-e47b-1fef72d2bf58/doc/40C18753-A0D2-41BE-A3A0-1A64B9213F6D/1A2292AA-4D41-4D67-A191-01052B0EEFFA_2/OiHtEti2kwXUflIHJwJAMBf0QBwZ5NSxeRkRWEMlLP4z/Image)
+![Image](https://secure-res.craft.do/v2/FidGwEL8UMyb65fE5jfVvCjawP3Z8efDYMEaqmH1eeBjFYFTFyhwkb4RrqUmoZL92XRLGfZM4gvJnj39eD5oqj7osygrhaFQBy2V7svqsnuYe8bgUH5aEUXrSNPpmPpPMXRykyeoVmhjsSq9GWcCi925igoXEjnj6qMHxDQCsn38eifRL42Xz6H5Xj3Lg21ujrBpU3icsxiDxiBcpFbsCkGnHBqXkBrr8wprM9rkawbuh5oeAwU1qqfTZnaM9sdWs24DjeM2jmZyNBBsq5VQfBvAQuftzSDj6qxKaXJQQUHMzqbUNC/Image.jpg)
 
 以上流程中，除了第 1 步不可避免的要手工操作以外，2-4 仅仅需要2条命令即可实现：
 
